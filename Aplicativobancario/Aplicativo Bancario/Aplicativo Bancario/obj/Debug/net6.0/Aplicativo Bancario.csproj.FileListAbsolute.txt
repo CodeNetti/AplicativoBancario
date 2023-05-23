@@ -1,0 +1,15 @@
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.csproj.AssemblyReference.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.AssemblyInfoInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.AssemblyInfo.cs
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.csproj.CoreCompileInputs.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\bin\Debug\net6.0\Aplicativo Bancario.exe
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\bin\Debug\net6.0\Aplicativo Bancario.deps.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\bin\Debug\net6.0\Aplicativo Bancario.runtimeconfig.json
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\bin\Debug\net6.0\Aplicativo Bancario.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\bin\Debug\net6.0\Aplicativo Bancario.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\refint\Aplicativo Bancario.dll
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.pdb
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\Aplicativo Bancario.genruntimeconfig.cache
+C:\Users\netti\OneDrive\Área de Trabalho\AdaCurse\Aplicativo Bancario\Aplicativo Bancario\obj\Debug\net6.0\ref\Aplicativo Bancario.dll
